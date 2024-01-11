@@ -1,6 +1,7 @@
 <template>
   <div>
     <NuxtLyout>
+      <Navbar/>
       <header>
         <ul>
           <li>
