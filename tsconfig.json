@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    // Your compiler options here
+  },
+  "include": [
+    "components/**/*.ts",
+    "layouts/**/*.ts",
+    "pages/**/*.ts",
+    "plugins/**/*.ts",
+    "nuxt.config.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
